@@ -1,1 +1,1 @@
-<font face="Arial">[![mohit234's GitHub stats](https://stats.quine.sh/mohit234/github?theme=gruvbox)](https://quine.sh)</font>
+[![mohit234's GitHub | Stats](https://stats.quine.sh/mohit234/github?theme=dark)](https://quine.sh)
